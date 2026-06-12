@@ -1,0 +1,188 @@
+<h2>M01 Lucy — Human-to-Agent Compiler Architecture</h2>
+
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+  }
+
+  .box {
+    border: 1px solid #aaa;
+    border-radius: 8px;
+    padding: 12px;
+    width: 200px;
+    min-height: 220px;
+    background-color: #f9f9f9;
+  }
+
+  .title {
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+
+  .arrow {
+    font-size: 24px;
+    padding: 0 10px;
+  }
+
+  ul {
+    padding-left: 18px;
+    margin: 0;
+  }
+
+  .highlight {
+    color: #0066cc;
+    font-weight: bold;
+  }
+
+  .layer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sub-box {
+    border-top: 1px dashed #ccc;
+    margin-top: 8px;
+    padding-top: 8px;
+  }
+</style>
+
+<div class="container">
+
+  <!-- USER -->
+  <div class="box">
+    <div class="title">End User</div>
+    <ul>
+      <li>Who I am</li>
+      <li>What I know</li>
+      <li>Experience</li>
+      <li>Thought process</li>
+      <li>Notes / documents</li>
+      <li>Any format</li>
+    </ul>
+  </div>
+
+  <div class="arrow">➡️</div>
+
+  <!-- LUCY -->
+  <div class="box">
+    <div class="title">M01 Lucy (Compiler)</div>
+    <ul>
+      <li>Multi-turn interaction</li>
+      <li>Interview-style extraction</li>
+      <li>Context accumulation</li>
+      <li class="highlight">No assumption rule</li>
+    </ul>
+
+    <div class="sub-box">
+      <div class="highlight">Validation Loop</div>
+      <ul>
+        <li>Summarize user input</li>
+        <li>Ask "anything else?"</li>
+        <li>Refine iteratively</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="arrow">➡️</div>
+
+  <!-- LOGICAL MODEL -->
+  <div class="box">
+    <div class="title">Logical Model</div>
+
+    <div class="sub-box">
+      <div class="highlight">Facts</div>
+      <ul>
+        <li>Systems</li>
+        <li>Procedures</li>
+        <li>Configurations</li>
+      </ul>
+    </div>
+
+    <div class="sub-box">
+      <div class="highlight">Dimensions</div>
+      <ul>
+        <li>Reasoning patterns</li>
+        <li>Decision logic</li>
+        <li>Communication style</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="arrow">➡️</div>
+
+  <!-- COMPILER -->
+  <div class="box">
+    <div class="title">Instruction Compilation</div>
+    <ul>
+      <li>Template-driven output</li>
+      <li>No missing-field guessing</li>
+      <li class="highlight">N/A if unknown</li>
+    </ul>
+
+    <div class="sub-box">
+      <div class="highlight">Output Structure</div>
+      <ul>
+        <li>Agent Purpose</li>
+        <li>Response Instruction</li>
+        <li>Limitations</li>
+        <li>Reference</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="arrow">➡️</div>
+
+  <!-- AGENT -->
+  <div class="box">
+    <div class="title">Generated Agent</div>
+    <ul>
+      <li class="highlight">Single domain only</li>
+      <li>Micro-agent design</li>
+      <li>Context-specific</li>
+    </ul>
+
+    <div class="sub-box">
+      <div class="highlight">Behavior Control</div>
+      <ul>
+        <li>NOT Q&A focused</li>
+        <li>Organize thinking</li>
+        <li>Guide reasoning</li>
+      </ul>
+    </div>
+
+    <div class="sub-box">
+      <div class="highlight">Response Labeling</div>
+      <ul>
+        <li>User knowledge</li>
+        <li>AI reasoning</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="arrow">➡️</div>
+
+  <!-- ITERATION -->
+  <div class="box">
+    <div class="title">Iteration Model</div>
+    <ul>
+      <li>Edit instruction directly</li>
+      <li>OR recompile via Lucy</li>
+      <li>Paste + feedback</li>
+    </ul>
+
+    <div class="sub-box">
+      <div class="highlight">Lifecycle</div>
+      <ul>
+        <li>Snapshot-based</li>
+        <li>No session memory</li>
+        <li>New version = new agent</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
