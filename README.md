@@ -61,7 +61,6 @@ M01 Lucy follows a 4-step pipeline:
    Lucy generates structured agent instructions:
    - Agent Purpose  
    - Response Instruction  
-   - Agent Limitations  
    - Reference  
 
 4. **Agent Deployment**  

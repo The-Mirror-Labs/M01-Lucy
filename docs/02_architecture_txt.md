@@ -99,7 +99,6 @@ Once the interaction is complete, Lucy compiles the structured model into a stan
 
 - Agent Purpose
 - Response Instruction
-- Agent Limitations
 - Reference
 
 This step is not simple formatting.  
