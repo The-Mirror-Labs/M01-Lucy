@@ -42,13 +42,18 @@ Represents explicit knowledge:
 - operational experience
 - domain knowledge
 
-### Dimensions — How the User Thinks
-Represents reasoning behavior:
-- decision-making approach
-- prioritization logic
-- communication style
-- escalation philosophy
-- problem-solving patterns
+### Dimensions — Context That Shapes Meaning
+Represents situational context that influences how facts are interpreted and how the agent responds:
+- user roles (e.g., developer, manager, frontline staff, finance analyst)
+- environment (e.g., region, season, department, channel, platform)
+- scenario type (e.g., incident, onboarding, sales decline, process review)
+- perspective (who is describing the situation and why)
+
+Dimensions actively influence:
+- response style
+- depth of explanation
+- communication tone
+- output structure
 
 ### Chains — How Things Connect
 Represents cause-and-effect relationships derived from facts:

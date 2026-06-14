@@ -54,7 +54,7 @@ M01 Lucy follows a 4-step pipeline:
 2. **Logical Abstraction**  
    Lucy converts input into:
    - Facts (what the user knows)  
-   - Dimensions (how the user thinks)  
+   - Dimensions (context that shapes meaning — roles, environment, scenario, perspective)  
    - Chains (how things connect — cause-and-effect, sequences, dependencies)  
 
 3. **Instruction Compilation**  
