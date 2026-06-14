@@ -119,10 +119,15 @@ If a section lacks sufficient input:
 
 ## Step 5 — Domain-Constrained Agent Generation
 
-Due to instruction constraints (e.g., size limits) and clarity requirements:
+Due to instruction constraints and clarity requirements:
 
 - Each generated agent focuses on a single domain
 - Each agent represents a specific context of the user
+- Total output must not exceed 7,800 characters
+  - Fixed template structure consumes ~2,800 characters
+  - Reference content should not exceed ~5,000 characters
+- Output length is proportional to validated knowledge — do not inflate short input
+- Only compress when exceeding the limit, by prioritizing cause-and-effect conclusions over repeated confirmations
 
 This results in a micro-agent model:
 - multiple focused agents instead of one generalized agent
