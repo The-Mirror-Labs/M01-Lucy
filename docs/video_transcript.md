@@ -182,17 +182,7 @@ Let me show you how this works."
 
 ---
 
-## [SCENE 3.4 — Everyday example: mid-year performance review]
-
-**Visual:** Brief scenario — an employee opens Lucy in June, talks about their contributions, Lucy organizes it, generates an agent that helps them articulate impact for their mid-year review.
-
-**Narration:**
-
-"Here's a simple everyday example. It's June — mid-year review season. You've been working hard for six months but you can't remember half of what you delivered, let alone explain why it mattered. You talk to Lucy, share what you've done, and Lucy organizes your thinking — facts about your contributions, dimensions like project context and stakeholder impact, and chains showing how your work connected to outcomes. Then it generates an agent that helps you articulate your impact clearly, in the right language for your manager. No more staring at a blank form."
-
----
-
-## [SCENE 3.5 — Summary & close]
+## [SCENE 3.4 — Summary & close]
 
 **Visual:** Three icons returning on screen — Thought Partner, Knowledge-as-Agent, AI Democratization. Lucy logo.
 
