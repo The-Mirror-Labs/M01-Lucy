@@ -10,9 +10,12 @@ It generates instruction-based agents that can be deployed into lightweight AI a
 
 ## Step 1 — Human-Centered Knowledge Input
 
-Users interact with Lucy through a multi-turn, interview-style conversation.
+Users interact with Lucy through a listener-based model across one or multiple turns.
 
-Instead of asking users to describe an agent, Lucy asks them to describe:
+Lucy does not conduct structured interviews or enforce step-based workflows.  
+Instead, it listens to whatever the user provides and reconstructs understanding from the full context.
+
+Input can include:
 - who they are
 - what they know
 - what they have experienced
@@ -82,13 +85,13 @@ Lucy enforces a strict no-assumption rule:
 
 During interaction:
 - Lucy summarizes extracted knowledge into structured sections
-- Provides natural-language rephrasing of the user’s thinking
+- Provides natural-language rephrasing of the user's thinking
 - Asks confirmation:
-  - “Is there anything else you want to add?”
+  - "Do I understand this correctly, and should I generate the agent instruction now?"
 
-This creates a validation loop similar to an interview process:
-- ensures completeness
-- improves accuracy
+This creates a validation loop based on comprehension checking:
+- ensures accuracy of understanding
+- gives the user control over when to proceed
 - builds user trust
 
 ---
