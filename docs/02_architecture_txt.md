@@ -30,7 +30,7 @@ Lucy continuously re-evaluates new input and builds a progressively refined unde
 
 ---
 
-## Step 2 — Logical Abstraction Layer (Facts & Dimensions)
+## Step 2 — Logical Abstraction Layer (Facts, Dimensions & Chains)
 
 Lucy transforms raw user input into a structured internal model:
 
@@ -50,10 +50,20 @@ Represents reasoning behavior:
 - escalation philosophy
 - problem-solving patterns
 
+### Chains — How Things Connect
+Represents cause-and-effect relationships derived from facts:
+- cause-and-effect relationships
+- event sequences and flows
+- cross-department or cross-process dependencies
+- impact propagation patterns
+
+Chains explain how facts relate to each other. They are inferred strictly from facts — never invented or speculated.
+
 This separation ensures that:
 - knowledge is preserved
 - reasoning patterns are explicitly captured
-- agent behavior reflects both content and thinking
+- causal relationships and dependencies are traced
+- agent behavior reflects content, thinking, and connections
 
 ---
 

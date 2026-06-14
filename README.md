@@ -55,6 +55,7 @@ M01 Lucy follows a 4-step pipeline:
    Lucy converts input into:
    - Facts (what the user knows)  
    - Dimensions (how the user thinks)  
+   - Chains (how things connect — cause-and-effect, sequences, dependencies)  
 
 3. **Instruction Compilation**  
    Lucy generates structured agent instructions:
