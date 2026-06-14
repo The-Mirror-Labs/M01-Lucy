@@ -158,17 +158,23 @@ If the agent knows the user's job title and the mapping is clear, it assumes the
 
 ---
 
-## Step 7 — Transparent Response Labeling
+## Step 7 — Transparent Response Labeling (Confidence Indicator)
 
-To ensure trust and clarity, generated agents label their outputs:
+To ensure trust and clarity, every response from a generated agent starts with a confidence label:
 
-- Content derived from user knowledge (Reference)
-- Content generated through AI reasoning
+- **Inferred from Doc** — the subject is explicitly documented in the Reference section, and the answer is supported by or reasonably inferred from that content
+- **AI Reasoning** — the subject is not mentioned in the Reference section, or goes beyond what can be inferred from it
+
+Selection rules:
+- Use Inferred from Doc only when the subject being asked about is explicitly mentioned in Reference
+- Use AI Reasoning when the subject itself is not documented, even if the answer seems related to known patterns
+- If the user asks about a subject not in Reference, the agent must explicitly state it has no knowledge of that subject and ask for clarification before providing any general reasoning
 
 This allows users to:
-- distinguish origin of information
+- distinguish origin of information at a glance
 - understand reasoning boundaries
 - avoid blind trust in AI-generated outputs
+- know when to validate before acting
 
 ---
 
