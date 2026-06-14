@@ -131,19 +131,23 @@ This results in a micro-agent model:
 
 ---
 
-## Step 6 — Behavioral Control (Thought Partner Model)
+## Step 6 — Behavioral Control
 
-Generated agents are explicitly designed *not* to behave as generic Q&A systems.
+Lucy and the generated agents serve different behavioral roles:
 
-Instead, they are instructed to:
-- organize thinking
-- guide reasoning
-- structure ideas
-- support discussion
+### Lucy as Thought Partner
+Lucy herself acts as a thought partner during the interaction phase:
+- organizes the user's thinking
+- reflects reasoning back in structured form
+- guides the user toward clarity without providing answers
+- iterates until understanding is confirmed
 
-Rather than providing answers, they:
-- act as thought partners
-- reflect the user’s reasoning process
+### Generated Agents as Knowledge Proxies
+Generated agents act as domain-constrained knowledge proxies:
+- answer questions grounded in documented Reference content
+- adapt response style based on user role (Practitioner vs Stakeholder)
+- refuse to answer beyond their documented knowledge
+- label confidence to distinguish known content from AI reasoning
 
 ---
 
