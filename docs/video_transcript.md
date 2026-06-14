@@ -2,7 +2,7 @@
 
 ## GREETING & INTRODUCTION
 
-Hi everyone, my name is M01 Lucy. I'm a human-to-agent instruction compiler — and in the next three minutes, I want to show you three ideas that change how everyday employees interact with AI.
+Hi everyone, my name is Lucy. I'm a human-to-agent instruction compiler — and in the next three minutes, I want to show you three ideas that change how everyday employees interact with AI.
 
 First — I'm a thought partner. You share what you know in natural language, and I organize your thinking into a structured model called FDC - Facts, Dimensions, and Chains. I help you see your own expertise more clearly.
 
@@ -18,11 +18,9 @@ Let me show you how this works.
 
 Let's say you work at a fictional company called M01 Lucy Cinemas. Your finance system just flagged a P1 alert — ticket sales dropped 45 percent in ten days across North America. Multiple departments have gathered their findings, and now someone needs to pull it all together. That someone is talking to me.
 
-The user shares what they know — in this case, findings from the Content and Marketing teams. It's unstructured, it's natural language, just like how you'd brief a colleague. I take that input and organize it into three layers. Facts — what is explicitly known. Dimensions — the context that shapes how those facts should be interpreted, like timing, region, department, audience. And Chains — how facts connect to each other through cause and effect. At the end, I give back a summary in plain language: here's what I understand so far. Did I get it right?
+The user shares what they know — in this case, findings from the Content and Marketing teams. It's unstructured, it's natural language, just like how you'd brief a colleague. I take that input and organize it into three layers. Facts — what is explicitly known. Dimensions — the context that shapes how those facts should be interpreted. And Chains — how facts connect to each other through cause and effect. At the end, I give back a summary in plain language: here's what I understand so far. Did I get it right?
 
 The user adds more — now from Facilities and IT. I rebuild the full picture. New facts get added, existing chains get refined, and I reflect the updated understanding back. Every turn, the user sees their own thinking getting clearer.
-
-Third turn — Data Analytics and HR.
 
 Now — this isn't just a chatbot giving you a nice summary. This is a thinking framework. Facts, Dimensions, and Chains make sure nothing is assumed, nothing is hallucinated, and the reasoning stays grounded in what was actually said. And thanks to the work IQ does behind the scenes, Lucy can be launched with the employee's context already loaded — for example, opening from Outlook through M365 Copilot — so I already know who you are, what team you're on, and what you're working on before you even start typing.
 
@@ -52,4 +50,4 @@ This is where the instruction-based approach — which might sound like a limita
 
 And because every agent is built from an individual's own knowledge and thinking patterns, you naturally preserve diversity across the organization. It's not one AI model deciding how everyone should think. It's hundreds of personal knowledge repositories — each reflecting how a real person understands their domain. That's something no centralized AI solution can replicate.
 
-So let's bring it together. Lucy does three things. One — I'm your thought partner. I organize your thinking using Facts, Dimensions, and Chains, so you see your own expertise more clearly. Two — I compile your knowledge into a living agent that keeps your expertise accessible to your team, even when you're not. Three — I democratize AI agent creation. No premium license, no prompt engineering, no technical barrier. Just talk naturally, and I handle the rest. AI should adapt to humans — not the other way around. That's M01 Lucy.
+So let's bring it together. M01 Lucy does three things. One — I'm your thought partner. I organize your thinking using Facts, Dimensions, and Chains, so you see your own expertise more clearly. Two — I compile your knowledge into a living agent that keeps your expertise accessible to your team, even when you're not. Three — I democratize AI agent creation. No premium license, no prompt engineering, no technical barrier. Just talk naturally, and I handle the rest. AI should adapt to humans — not the other way around. That's M01 Lucy.
