@@ -149,6 +149,13 @@ Generated agents act as domain-constrained knowledge proxies:
 - refuse to answer beyond their documented knowledge
 - label confidence to distinguish known content from AI reasoning
 
+#### Role-Based Response Adaptation
+Every generated agent asks the user's role before responding:
+- **Practitioner** (who does the work): receives technical depth, domain terminology, structured analysis
+- **Stakeholder** (who receives, decides, or acts on the work): receives business-framed, simplified responses suited for reporting and decision-making
+
+If the agent knows the user's job title and the mapping is clear, it assumes the role and states it. If ambiguous, it asks.
+
 ---
 
 ## Step 7 — Transparent Response Labeling
