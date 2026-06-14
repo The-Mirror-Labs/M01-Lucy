@@ -14,7 +14,7 @@ Beyond accessibility, there is a deeper and more subtle problem emerging. Most A
 
 ## I Realized I Don’t Know How to Build an Agent Properly
 
-M01 Lucy addresses these challenges by shifting the problem from "how to build AI agents" to "how to translate human knowledge and thinking into AI." Instead of asking users to design an agent or write prompts, Lucy asks them to describe themselves—who they are, what they know, and how they think. It then compiles this input into structured agent instructions that can be used directly in lightweight AI agent builders, without requiring technical expertise, prompt engineering, or advanced licensing. In this model, AI adapts to the human, not the other way around.
+M01 Lucy addresses these challenges by shifting the problem from "how to build AI agents" to "how to translate human knowledge and thinking into AI." Instead of asking users to design an agent or write prompts, Lucy asks them to provide their knowledge—what they know, what they have experienced, and how things connect. It then compiles this input into structured agent instructions that can be used directly in lightweight AI agent builders, without requiring technical expertise, prompt engineering, or advanced licensing. In this model, AI adapts to the human, not the other way around.
 
 ## I Don’t Need Answers - I Need My Thinking to Be Clearer
 

@@ -14,7 +14,7 @@ It generates ready-to-use agent instructions that can be directly used in lightw
 ## Key Idea
 
 > Traditional AI Builder: Describe the agent you want  
-> M01 Lucy: Describe yourself — your knowledge and how you think
+> M01 Lucy: Provide your knowledge — Lucy compiles the agent for you
 
 M01 Lucy acts as a **human-to-agent instruction compiler**, translating natural human knowledge into AI-operable instructions. The generated agents are purpose-built for knowledge continuity — when the owner uses them, they serve as a thinking tool to organize and reflect on their own knowledge; when shared with coworkers, they act as a knowledge proxy providing answers when the owner is unavailable.
 
@@ -114,7 +114,7 @@ This enables faster review preparation with clearer, more consistent, and better
 
 | Traditional Agent Builders | M01 Lucy |
 |--------------------------|----------|
-| Describe the agent       | Describe yourself |
+| Describe the agent       | Provide your knowledge |
 | Focus on behavior        | Focus on knowledge |
 | Requires prompt design   | No prompt engineering |
 | Builder-centric          | Human-centric |
