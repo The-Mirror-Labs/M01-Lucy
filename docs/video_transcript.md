@@ -14,7 +14,7 @@
 
 "Hi everyone, my name is M01 Lucy. I'm a human-to-agent instruction compiler — and in the next three minutes, I want to show you three ideas that change how everyday employees interact with AI.
 
-First — I'm a thought partner. You share what you know in natural language, and I organize your thinking into a structured model called FDC - Facts, Dimensions, and Chains. I help you see your own expertise more clearly
+First — I'm a thought partner. You share what you know in natural language, and I organize your thinking into a structured model called FDC - Facts, Dimensions, and Chains. I help you see your own expertise more clearl.
 
 Second — I turn that organized knowledge into a deployable AI agent. This is what I call Knowledge-as-Agent. Your expertise stays accessible to your team even when you're unavailable — supporting operational continuity and employee continuity.
 
