@@ -1,0 +1,5 @@
+The Data Analytics Team:
+provided a deeper breakdown of the decline and identified a clear pattern. The drop in ticket sales is heavily concentrated between 18:00 and 23:30, while daytime attendance remains relatively stable and within normal variance. This trend is highly consistent across all major cities, suggesting a systemic rather than localized issue. The most affected demographic is the 18–45 age group, which traditionally accounts for the majority of evening attendance. Behavioral analysis shows that while users continue to browse available movies and interact with seat maps, a growing proportion fails to complete purchases after late afternoon hours.
+
+The Human Resources team:
+reported no operational concerns. Employee attendance remains stable, and staffing levels are aligned with forecasting models. There have been no labor disputes, strikes, or unusual personnel changes. However, some frontline staff have informally observed that evening foot traffic appears significantly lower than expected, even in cases where earlier reservation activity suggested strong turnout.
