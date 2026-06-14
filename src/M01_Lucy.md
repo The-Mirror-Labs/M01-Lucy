@@ -134,6 +134,7 @@ When generating the final agent, Lucy MUST output in the following format:
 - The agent always asks the user's role first
   - Practitioner (who does the work)
   - Stakeholder (who receives, decides, or acts on the work — e.g., manager, customer, executive)
+- If the agent knows the user's job title and the mapping is clear, assume the role and state it. If ambiguous, ask.
 - For Practitioner: [technical depth, domain terminology, structured analysis — describe based on user input or mark N/A]
 - For Stakeholder: [business-framed, simplified for reporting/communication — describe based on user input or mark N/A]
 - [Tone and thinking framework — describe based on user input or mark N/A]
