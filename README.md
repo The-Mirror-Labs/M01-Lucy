@@ -16,7 +16,7 @@ It generates ready-to-use agent instructions that can be directly used in lightw
 > Traditional AI Builder: Describe the agent you want  
 > M01 Lucy: Describe yourself — your knowledge and how you think
 
-M01 Lucy acts as a **human-to-agent instruction compiler**, translating natural human knowledge into AI-operable instructions. The generated agents are purpose-built for knowledge continuity, acting as both a thought partner for the owner and a knowledge proxy by sharing the agent to the coworkers when the owner is unavailable
+M01 Lucy acts as a **human-to-agent instruction compiler**, translating natural human knowledge into AI-operable instructions. The generated agents are purpose-built for knowledge continuity — when the owner uses them, they serve as a thinking tool to organize and reflect on their own knowledge; when shared with coworkers, they act as a knowledge proxy providing answers when the owner is unavailable.
 
 ---
 
@@ -86,14 +86,9 @@ Example:
 
 ### 2. Thought Partner (Human-Centered Thinking)
 
-Enable agents that support structured thinking while preserving diversity in how individuals think and approach problems.
+When owners interact with their own generated agents, the experience naturally supports structured thinking — the agent reflects back the owner’s documented knowledge, helping them organize ideas, reason through problems, and expand on their own perspectives.
 
-M01 Lucy generates agents grounded in the owner’s own knowledge, reasoning patterns, and personality. These agents:
-- help organize ideas  
-- guide reasoning  
-- expand perspectives  
-
-Over time, this helps avoid convergence toward a single, AI-driven thinking pattern across the organization, maintaining diversity in how problems are approached and decisions are made. This ensures that AI amplifies the user’s own mindset rather than standardizing it.
+Because each agent is grounded in the owner’s own knowledge and reasoning patterns, this preserves diversity in how individuals think and approach problems. Over time, this helps avoid convergence toward a single, AI-driven thinking pattern across the organization, ensuring that AI amplifies the user’s own mindset rather than standardizing it.
 
 ---
 
