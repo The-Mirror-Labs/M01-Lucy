@@ -221,10 +221,13 @@ See [`testing_sample/Multi_Turn/`](testing_sample/Multi_Turn/) for a complete mu
 
 ## Status
 
-This is a hackathon prototype focused on demonstrating:
-- concept clarity  
-- workflow feasibility  
-- enterprise value
+This is a hackathon prototype. What's working:
+- Full instruction-based agent (Lucy) — deployable now with zero infrastructure  
+- Multi-turn knowledge compilation tested across different teams  
+- Generated agents validated with role-based responses and confidence labeling  
+- Deployable on M365 Copilot agent builder
+- When launched from Copilot through the Outlook app, Lucy can access the employee's email context — making knowledge capture even more seamless  
+- Successfully used in real production incidents and project scenarios
 
 ## Authors
 - GZ
