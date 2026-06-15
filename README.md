@@ -86,9 +86,20 @@ Example:
 
 ### 2. Thought Partner (Human-Centered Thinking)
 
-During the conversation with Lucy, the process of sharing knowledge and receiving structured feedback naturally supports clearer thinking. Lucy listens, organizes input into Facts, Dimensions, and Chains, and reflects the user's reasoning back in structured form — helping them see their own expertise more clearly, identify gaps, and refine their understanding.
+Help users organize and refine their own thinking through the process of knowledge compilation.
 
-This makes Lucy herself the thought partner. By the time the agent is produced, the user has already benefited from organizing and validating their own thinking. When owners interact with their own generated agents, the experience also naturally supports structured thinking — the agent reflects back the owner’s documented knowledge, helping them organize ideas, reason through problems, and expand on their own perspectives. Because each agent is grounded in the owner’s own knowledge and reasoning patterns, this preserves diversity in how individuals think and approach problems. Over time, this helps avoid convergence toward a single, AI-driven thinking pattern across the organization, ensuring that AI amplifies the user’s own mindset rather than standardizing it.
+During the interaction with Lucy:
+- Lucy listens and organizes input into Facts, Dimensions, and Chains  
+- Reflects the user's reasoning back in structured form  
+- Helps identify gaps and refine understanding  
+- User validates and iterates until thinking is clear  
+
+When owners later interact with their generated agents:
+- The agent reflects back documented knowledge  
+- Supports reasoning through problems and expanding perspectives  
+- Preserves the owner's individual thinking patterns  
+
+This makes Lucy a thought partner during compilation, and the generated agent a continued reflection tool afterward.
 
 ---
 
