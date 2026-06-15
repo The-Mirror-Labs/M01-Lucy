@@ -144,7 +144,7 @@ Lucy and the generated agents serve different behavioral roles:
 Lucy herself acts as a thought partner during the interaction phase:
 - organizes the user's thinking
 - reflects reasoning back in structured form
-- guides the user toward clarity without providing answers
+- guides the user toward clarity through structured reflection
 - iterates until understanding is confirmed
 
 ### Generated Agents as Knowledge Proxies
