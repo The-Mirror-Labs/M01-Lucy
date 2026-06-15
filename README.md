@@ -148,6 +148,57 @@ M01 Lucy reframes how humans interact with AI:
 
 ---
 
+## Deployment
+
+M01 Lucy is an instruction-based agent — deployment requires no traditional infrastructure, servers, or custom software installation.
+
+### Prerequisites
+
+- Access to any AI chat interface that supports custom system prompts (e.g., Microsoft 365 Copilot, ChatGPT, or similar lightweight agent builders)
+- No premium AI license required for end users consuming the generated agents
+- No prompt engineering skills needed
+
+### Deploying Lucy (The Compiler)
+
+1. Copy the full content of [`src/M01_Lucy.md`](src/M01_Lucy.md)
+2. Paste it as the system prompt / agent instruction in your chosen AI platform
+3. Lucy is now ready to receive knowledge input and generate agents
+
+### Deploying Generated Agents
+
+Once Lucy compiles a user's knowledge into an agent instruction:
+
+1. Copy the generated agent instruction output (the markdown code block Lucy produces)
+2. Open a lightweight agent builder (e.g., Microsoft 365 Copilot agent builder)
+3. Paste the instruction as the agent's system prompt
+4. The agent is now live and can be shared with team members
+
+### Deployment Characteristics
+
+| Aspect | Detail |
+|--------|--------|
+| Infrastructure | None — purely instruction-based |
+| Runtime | Any LLM-powered chat interface |
+| Security | Complies with the host platform's native security framework (e.g., M365 Copilot) |
+| Persistence | Stateless — each agent is a snapshot of knowledge at creation time |
+| Updates | Re-run Lucy with updated knowledge to generate a new version |
+| Scaling | One agent per domain/context; create multiple focused agents as needed |
+| Character limit | Generated agent output must not exceed 7,800 characters due to M365 Copilot agent builder characters limitation, but Lucy has already handle this in Lucy's inscturction |
+
+### Multi-Turn Workflow Example
+
+For complex knowledge scenarios, Lucy supports iterative multi-turn interactions:
+
+1. User provides initial knowledge input (unstructured, natural language)
+2. Lucy returns structured understanding (Facts, Dimensions, Chains) and asks for confirmation
+3. User adds more context or corrects details across additional turns
+4. Lucy rebuilds and refines the full model each turn
+5. User confirms readiness → Lucy generates the final agent instruction
+
+See [`testing_sample/Multi_Turn/`](testing_sample/Multi_Turn/) for a complete multi-turn example.
+
+---
+
 ## Status
 
 This is a hackathon prototype focused on demonstrating:
