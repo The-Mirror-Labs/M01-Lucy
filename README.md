@@ -100,24 +100,35 @@ Make knowledge continuously accessible when employees are:
 Example:
 - When working on urgent tasks, instead of responding to repeated status requests, users can capture their current knowledge and share a generated agent. Others can retrieve updates directly without interrupting the owner.
 
+---
+
+### 3. AI Democratization (Zero-Barrier Agent Creation)
+
+Enable any employee to create and deploy AI agents — regardless of technical skill, prompt engineering experience, or license tier.
+
+Most employees today:
+- do not have access to premium AI licenses  
+- do not know how to design agent behavior or write prompts  
+- are business experts, not AI engineers  
+
+With M01 Lucy:
+- Users talk naturally — Lucy handles the machine language  
+- The output is plain text (agent instructions), deployable in any lightweight builder  
+- No premium tooling required for the end user  
+- Every generated agent is grounded in the individual's own knowledge, preserving thinking diversity across the organization  
+
+This shifts agent creation from a technical skill to a knowledge expression activity.
 
 ---
 
-### 3. Performance Reflection (Impact Articulation)
+## Example Applications
 
-Support both employees and managers in efficiently articulating and communicating work and impact.
+The three core capabilities above combine to support a range of enterprise scenarios:
 
-In large organizations:
-- employees often don’t recall or structure their contributions well  
-- lower-level management prefers minimal time spent on reviews  
-- higher-level management requires clear and structured justification  
-
-With M01 Lucy:
-- employees generate a personal agent reflecting their knowledge and experience  
-- managers can define expectations and evaluation approaches through similar agents  
-- agents help organize thinking, improve wording, and standardize how contributions are presented  
-
-This enables faster review preparation with clearer, more consistent, and better-aligned performance narratives.
+- **Incident analysis** — compile cross-team findings into an agent that any stakeholder can query for status and root-cause reasoning  
+- **Performance reflection** — use Lucy as a thought partner to organize and articulate your contributions, then generate an agent that helps structure review narratives  
+- **Onboarding handoff** — capture domain knowledge before a role transition so successors can query a knowledge proxy from day one  
+- **Cross-timezone collaboration** — share a knowledge agent so colleagues in other regions can get answers without waiting for overlap hours
 
 ---
 
