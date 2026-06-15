@@ -70,21 +70,7 @@ M01 Lucy follows a 4-step pipeline:
 
 ## Core Use Cases
 
-### 1. Availability Coverage (Knowledge Continuity)
-
-Make knowledge continuously accessible when employees are:
-- on vacation  
-- in different time zones  
-- working in different languages  
-- focused on high-priority work and want to avoid interruptions
-
-Example:
-- When working on urgent tasks, instead of responding to repeated status requests, users can capture their current knowledge and share a generated agent. Others can retrieve updates directly without interrupting the owner.
-
-
----
-
-### 2. Thought Partner (Human-Centered Thinking)
+### 1. Thought Partner (Human-Centered Thinking)
 
 Help users organize and refine their own thinking through the process of knowledge compilation.
 
@@ -100,6 +86,20 @@ When owners later interact with their generated agents:
 - Preserves the owner's individual thinking patterns  
 
 This makes Lucy a thought partner during compilation, and the generated agent a continued reflection tool afterward.
+
+---
+
+### 2. Availability Coverage (Knowledge Continuity)
+
+Make knowledge continuously accessible when employees are:
+- on vacation  
+- in different time zones  
+- working in different languages  
+- focused on high-priority work and want to avoid interruptions
+
+Example:
+- When working on urgent tasks, instead of responding to repeated status requests, users can capture their current knowledge and share a generated agent. Others can retrieve updates directly without interrupting the owner.
+
 
 ---
 
