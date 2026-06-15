@@ -210,7 +210,7 @@ Once Lucy compiles a user's knowledge into an agent instruction:
 |--------|--------|
 | Infrastructure | None — purely instruction-based |
 | Runtime | Any LLM-powered chat interface |
-| Security | Complies with the host platform's native security framework (e.g., M365 Copilot) |
+| Security | No external backend, no persistent storage, no data transmission. Fully inherits the host platform's security and compliance framework (e.g., M365 Copilot, access controls, audit logging) |
 | Persistence | Stateless — each agent is a snapshot of knowledge at creation time |
 | Updates | Re-run Lucy with updated knowledge to generate a new version |
 | Scaling | One agent per domain/context; create multiple focused agents as needed |
