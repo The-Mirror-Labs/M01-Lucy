@@ -225,7 +225,7 @@ This ensures:
 M01 Lucy introduces a new transformation pipeline:
 
 Human Knowledge  
-→ Structured Model (Facts & Dimensions)  
+→ Structured Model (Facts, Dimensions & Chains)  
 → Validated Representation (No-Assumption)  
 → Instruction Compilation  
 → Domain-Specific Agent  
