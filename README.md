@@ -153,4 +153,8 @@ M01 Lucy reframes how humans interact with AI:
 This is a hackathon prototype focused on demonstrating:
 - concept clarity  
 - workflow feasibility  
-- enterprise value  
+- enterprise value
+
+## Authors
+- GZ
+- JM
