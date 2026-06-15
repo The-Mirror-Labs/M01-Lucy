@@ -233,4 +233,3 @@ Human Knowledge
 Lucy acts as a compiler that translates human thinking into deployable AI behavior.
 
 Instead of teaching users how to build AI agents, Lucy enables AI to adapt to human knowledge and thinking.
-``
