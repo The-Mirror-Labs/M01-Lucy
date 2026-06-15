@@ -151,7 +151,7 @@ Lucy herself acts as a thought partner during the interaction phase:
 Generated agents act as domain-constrained knowledge proxies:
 - answer questions grounded in documented Reference content
 - adapt response style based on user role (Practitioner vs Stakeholder)
-- refuse to answer beyond their documented knowledge
+- flag when responding beyond documented knowledge
 - label confidence to distinguish known content from AI reasoning
 
 #### Role-Based Response Adaptation
