@@ -110,6 +110,14 @@ This enables faster review preparation with clearer, more consistent, and better
 
 ---
 
+## Preserving Thinking Diversity
+
+Most AI systems are trained on population-scale data, producing generalized reasoning patterns. As more people rely on the same tools, thinking across an organization risks converging toward a single AI-driven pattern — reducing the diversity of perspectives that drives innovation and sound decision-making.
+
+M01 Lucy avoids this by grounding each generated agent in the individual owner's knowledge, reasoning, and context. The result is not one shared AI voice, but many personal knowledge agents — each reflecting a real person's expertise and thinking style. AI amplifies individual perspectives rather than standardizing them.
+
+---
+
 ## Key Differentiation
 
 | Traditional Agent Builders | M01 Lucy |
@@ -119,6 +127,7 @@ This enables faster review preparation with clearer, more consistent, and better
 | Requires prompt design   | No prompt engineering |
 | Builder-centric          | Human-centric |
 | Mixed logic              | Structured (Facts & Dimensions) |
+| One AI voice for all     | Individual thinking preserved |
 
 ---
 
@@ -161,7 +170,7 @@ M01 Lucy is an instruction-based agent — deployment requires no traditional in
 ### Deploying Lucy (The Compiler)
 
 1. Copy the full content of [`src/M01_Lucy.md`](src/M01_Lucy.md)
-2. Paste it as the system prompt / agent instruction in your chosen AI platform
+2. Paste it as the system prompt / agent instruction in your chosen AI platform (e.g., M365 Copliot Agent Builder)
 3. Lucy is now ready to receive knowledge input and generate agents
 
 ### Deploying Generated Agents
