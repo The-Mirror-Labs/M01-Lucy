@@ -2,7 +2,7 @@
 
 ## GREETING & INTRODUCTION
 
-Hi everyone, my name is Lucy. I'm a human-to-agent instruction compiler — and in the next three minutes, I want to show you three ideas that change how everyday employees interact with AI.
+Hi everyone, my name is Lucy. I'm a human-to-agent instruction compiler — and I want to show you three ideas that change how everyday employees interact with AI.
 
 First — I'm a thought partner. You share what you know in natural language, and I organize your thinking into a structured model called FDC - Facts, Dimensions, and Chains. I help you see your own expertise more clearly.
 
@@ -44,10 +44,10 @@ And because these agents are purely instruction-based, security fully complies w
 
 ## MINUTE 3 — AI Democratization & Everyday Impact
 
-Now let's talk about reality. In most organizations, the majority of employees don't have a premium AI license. And even those who do — most of them don't know how to properly create an agent. They're business experts, not prompt engineers.
+Now let's talk about reality. Most employees don't have a premium AI license. And even those who do — they don't know how to properly create an agent. They're business experts, not prompt engineers.
 
-This is where the instruction-based approach — which might sound like a limitation — actually becomes the biggest advantage for an organization. Because the output is just a text instruction, it doesn't require premium tooling to create. Any employee can generate one through Lucy and deploy it in a lightweight builder. That's AI democratization in practice — not a slogan, a workflow.
+This is where instruction-based becomes the biggest advantage. The output is just text — it doesn't require premium tooling. Any employee can generate one through Lucy and deploy it in a lightweight builder. AI democratization in practice.
 
-And because every agent is built from an individual's own knowledge and thinking patterns, you naturally preserve diversity across the organization. It's not one AI model deciding how everyone should think. It's hundreds of personal knowledge repositories — each reflecting how a real person understands their domain. That's something no centralized AI solution can replicate.
+And because every agent is built from an individual's own knowledge, you naturally preserve diversity across the organization. It's not one AI deciding how everyone should think. It's hundreds of personal knowledge repositories — each reflecting a real person's expertise.
 
-So let's bring it together. M01 Lucy does three things. One — I'm your thought partner. I organize your thinking using Facts, Dimensions, and Chains, so you see your own expertise more clearly. Two — I compile your knowledge into a living agent that keeps your expertise accessible to your team, even when you're not. Three — I democratize AI agent creation. No premium license, no prompt engineering, no technical barrier. Just talk naturally, and I handle the rest. AI should adapt to humans — not the other way around. That's M01 Lucy.
+So — M01 Lucy does three things. One — I organize your thinking. Two — I compile your knowledge into a living agent. Three — I make this accessible to everyone. No premium license, no prompt engineering. Just talk naturally. AI adapts to humans — not the other way around. That's M01 Lucy.
